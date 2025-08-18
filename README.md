@@ -1,2 +1,2 @@
-# LLMcs
-这是个测试，无任何意义
+# Hello Github
+- 学习GitHub的一个小测试
