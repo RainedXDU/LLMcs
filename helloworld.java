@@ -5,6 +5,6 @@ public class helloworld {
         System.out.println("Hello staybun");
         System.out.println("Hello chestnut");
         System.out.println("Hello chestnut");
-        System.out.println("Hello but");
+        System.out.println("Hello amend");
     }
 }
