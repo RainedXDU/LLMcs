@@ -4,5 +4,7 @@ public class helloworld {
         System.out.println("Hello IDEgit");
         System.out.println("Hello staybun");
         System.out.println("Hello chestnut");
+        System.out.println("Hello chestnut");
+        System.out.println("Hello but");
     }
 }
